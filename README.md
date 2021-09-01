@@ -4,7 +4,8 @@
 I come from an IT background and now I love to code. I am passionate about contributing to and making apps that makes everyday life (and coding) convenient for others!
 
 ## What I'm currently up to
-- Learning Java and Typescript
+- Catching up on Java
+- Learning Typescript
 - Looking forward to contributing to open source
 - Learning about AWS
 
