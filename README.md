@@ -11,7 +11,7 @@ I come from an IT background and now I love to code. I am passionate about contr
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiongjoh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiongjoh/)
-[![adamalston.com](https://img.shields.io/badge/-XIONGJOH.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://johnnyxiong.vercel.app/)
+[![adamalston.com](https://img.shields.io/badge/-XIONGJOH.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://xiongjoh.com/)
 
 ##### Languages I use
 
